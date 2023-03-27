@@ -10,6 +10,8 @@
 
 <div align="center" style="display: inline_block">
   <img  align="center" alt="Ana-AE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  
+  <img align="center" alt="Ana-AE" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
   <img  align="center" alt="Ana-AE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />          
   <img  align="center" alt="Ana-AE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />        
   <img  align="center" alt="Ana-AE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
